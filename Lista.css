@@ -52,5 +52,5 @@ input[type="text"] {
 }
 
 input[type="button"]{
-background-color: green
+background-color: green; border-color: green
 }
